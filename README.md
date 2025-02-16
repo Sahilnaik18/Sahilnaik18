@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilnaik18" alt="sahilnaik18" /></a> </p>
 
-- I’m currently working on [Online Bank System](https://github.com/Sahilnaik18/OnlineBankingSystem)
+- I’m currently working on [Banking System](https://github.com/Sahilnaik18/OnlineBankingSystem)
 
 - I’m looking to collaborate on **Cricbuzz-like Project**
 
