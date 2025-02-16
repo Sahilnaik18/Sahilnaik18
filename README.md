@@ -19,7 +19,7 @@
 
 - How to reach me **sahilnaik1515@gmail.com**
 
-- 📄 Know about my experiences [github.com/Sahilnaik18](https://www.linkedin.com/in/sahilnaik18)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sahilnaik18)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
